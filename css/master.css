@@ -1,0 +1,19 @@
+body{
+  background: #7395AE;
+  font-size: 125%;
+}
+
+header{
+  text-align: center;
+  color: #FFFFFF;
+}
+
+nav{
+  font-family: Arial;
+  font-variant: small-caps;
+  font-size: 150%;
+}
+
+footer{
+  font-style: italic;
+}
